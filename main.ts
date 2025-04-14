@@ -9,6 +9,3 @@ input.onButtonPressed(Button.B, function () {
 })
 let N = 0
 basic.showNumber(0)
-basic.forever(function () {
-	
-})
